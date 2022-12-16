@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id":1,
+      "title": "MERN stack",
+      "price": 30000,
+      "loc":"Karachi"
+    },
+    {
+      "id":2,
+      "title": "Amazon",
+      "price": 15000,
+      "loc":"Karachi"
+    },
+    {
+      "id":3,
+      "title": "CIT",
+      "price": 5000,
+      "loc":"Lahore"
+    }
+  ]
+  
+  
+}

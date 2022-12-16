@@ -1,0 +1,37 @@
+
+{
+  "recipe": [
+    {
+      "id": 1,
+      "title": "Vegetable Stew",
+      "time": "45 minutes to make",
+      "detail": "sadas"
+      
+    },
+    {
+      "id": 2,
+      "title": "Vegetable Pizza",
+      "time": "35 minutes to make",
+      "detail": "sadas"
+    },
+    {
+      "id": 3,
+      "title": "Greek Salad",
+      "time": "35 minutes to make",
+      "detail": "sadas"
+    },
+    
+    {
+      "id": 0.1219980420760215,
+      "title": "fds",
+      "detail": "fgggggggggr",
+      "time": "sdf"
+    },
+    {
+      "id": 0.2556914262474461,
+      "title": "sadb",
+      "detail": "asbdn",
+      "time": "432"
+    }
+  ]
+}

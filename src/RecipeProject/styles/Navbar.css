@@ -1,0 +1,40 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* background-color: #7a7abc; */
+}
+.navbar-container .right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+/* .left h1 {
+  color: #ffff;
+} */
+/* label {
+  color: #ffff;
+  font-size: 1.2rem;
+  margin-right: 10px;
+} */
+.nav-btn {
+  background-color: transparent;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 1rem;
+  border: 2px solid rgb(235, 227, 227);
+  /* color: #ffff; */
+}
+input {
+  height: 29.4px;
+  width: 205px;
+}
+.recipe_label label{
+/* color: black; */
+}
+.add_recipe{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
